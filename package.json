@@ -1,0 +1,12 @@
+{
+  "name": "atom",
+  "version": "1.0.0",
+  "description": "シンプルなテキストエディタ",
+  "main": "atom.js",
+  "scripts": {
+    "start": "node atom.js"
+  },
+  "keywords": ["editor", "text", "atom"],
+  "author": "",
+  "license": "MIT"
+}
